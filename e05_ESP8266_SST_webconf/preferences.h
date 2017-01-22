@@ -33,7 +33,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //0 Static Connection
 //1 Dynamic Connection
-#define DYNAMIC_CONNECTION 0
+#define DYNAMIC_CONNECTION 1
 
 //DHCP
 //1 Use DHCP IP
@@ -51,7 +51,7 @@
 //Only for DYNAMIC_CONNECTION = 0
 #define WIFICONF_INSKETCH
 #define WiFi_SSID               "*** toConfigure ***"
-#define WiFi_Password           "*** toConfigure ***"   
+#define WiFi_Password           "*** toConfigure ***"
 
 // Define the network configuration according to your router settingsuration according to your router settings
 // and the other on the wireless oneless one
